@@ -1,0 +1,6 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
+</keymap>

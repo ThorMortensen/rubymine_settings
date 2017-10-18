@@ -1,0 +1,5 @@
+<code_scheme name="Default">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_ON_TAG" value="#@formatter:on" />
+  <option name="FORMATTER_OFF_TAG" value="#@formatter:off" />
+</code_scheme>
