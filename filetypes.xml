@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="+masc_flashkernel" type="PLAIN_TEXT" />
       <mapping pattern="workSheet" type="Ruby" />
+      <mapping pattern="GITHUB_SETTINGS" type="YAML" />
     </extensionMap>
   </component>
 </application>
