@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="+masc_flashkernel" type="PLAIN_TEXT" />
       <mapping pattern="workSheet" type="Ruby" />
     </extensionMap>
   </component>
